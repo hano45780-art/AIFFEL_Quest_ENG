@@ -1,8 +1,4 @@
-```text
-# 프로젝트 구조
-
-```text
-.
+'''.
 ├── 01_Python
 │   ├── Py01
 │   │   └── README.md
