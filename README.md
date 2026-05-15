@@ -1,3 +1,4 @@
+```text
 # 프로젝트 구조
 
 ```text
@@ -92,3 +93,4 @@
 └── README.md
 
 49 directories, 40 files
+```
